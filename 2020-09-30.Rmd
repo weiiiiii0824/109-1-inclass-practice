@@ -1,0 +1,33 @@
+---
+title: "課?<a0>?練習模<e7><89><88>"
+author: "魏伯雍"
+date: "2020-09-30"
+output: output_format
+params:
+  id: "410973059"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Your code
+
+```{r}
+
+my_108_total_credits <- 15
+my_108_total_credits <- 15
+my.108.total_credits <- 15
+. <- 15 
+.my.108.total_credits <- 15
+我的108學年總學分數 <- 15
+b <- a 
+a <- 15 
+eval(a+b)
+sum(a+b)
+a+b
+
+
+
+```
+
