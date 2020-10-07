@@ -1,0 +1,44 @@
+---
+title: "課堂練習模版"
+author: "410973059louis"
+date: "2020-10-07"
+output: output_format
+params:
+  id: "410973059"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Your code
+
+```{r}
+heightOFtheSTUDENTSthatHADcomeinTHEclassroom<-c()
+```
+```{r}
+heightOFtheSTUDENTSthatHADcomeinTHEclassroom2<-c()
+```
+```{r}
+heightOFtheSTUDENTSthatHADcomeinTHEclassroom<-sample(140:200,1)
+```
+```{r}
+heightOFtheSTUDENTSthatHADcomeinTHEclassroom2<-c(
+heightOFtheSTUDENTSthatHADcomeinTHEclassroom2,
+heightOFtheSTUDENTSthatHADcomeinTHEclassroom)
+```
+
+```{r}
+myName <- "Mamamiaaaaaaaaa"
+```
+```{r}
+length(myName)
+```
+
+```{r}
+cat('老師說換行要寫\\"n"')
+```
+
+```{r}
+cat('老師說換行要寫\\n')
+```
